@@ -7,4 +7,8 @@ int main() {
 	scanf("%s", str);
 	str = hash(str);
 	printf("\n%s", str);
+	/*
+	 * This is a hashing function
+	 * And all this does is hashes things
+	 */
 }
